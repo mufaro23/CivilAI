@@ -5,7 +5,7 @@ CivilAI
 The aim of the project is to detect cracks on concrete surfaces using deep learning.
 
 Libraries
-  Python v3.9.8
+1. Python v3.9.8
 
 How to run the program
 1. Download Python v3.9.5 using the link below:
