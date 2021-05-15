@@ -2,7 +2,7 @@
 This is a final year project for BSc Civil Engineering at Wits University. 
 
 CivilAI
-The aim of the project is to detect cracks on concrete surfaces using deep learning.
+-The aim of the project is to detect cracks on concrete surfaces using deep learning.
 
 Libraries
 1. Python v3.9.8
